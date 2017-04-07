@@ -1,0 +1,6 @@
+A branch is a moveable pointer to a commit. The defailt branch name in Git is master, which points to the last commit you made. 
+Every time you commit, it moves foreward a little.
+
+The special pointer 'HEAD' keeps track of the what branch you are currently on.
+
+more info: https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is
